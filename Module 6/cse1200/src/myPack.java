@@ -1,0 +1,5 @@
+public class myPack {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
